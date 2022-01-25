@@ -1,10 +1,10 @@
 {
     "name": "anentiresleeve-pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "AnEntireSleeve Modpack",
     "author": "AnEntireSleeve",
     "description": "ModPack with the mods I use and recommend. Mostly UI enhancements and quality of life.",
-    "homepage": "https://github.com/Sil3ntStorm/factorio-modpack",
+    "homepage": "https://github.com/rpdelaney/factorio-modpack",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= ???",

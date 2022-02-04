@@ -1,6 +1,6 @@
 {
     "name": "anentiresleeve-pack",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "title": "AnEntireSleeve Modpack",
     "author": "AnEntireSleeve",
     "description": "ModPack with the mods I use and recommend. Mostly UI enhancements and quality of life.",
@@ -12,7 +12,7 @@
         "AutoTrash >= 5.3.13",
         "Better-TrainHorn >= 1.0.2",
         "BetterAlertArrows >= 1.0.0",
-        "BIG LIGHT >= 0.1.3",
+        "BigLight >= 0.1.3",
         "BottleneckLite >= 1.2.3",
         "ClearNightvision >= 1.0.1",
         "ColorCodedPlanners >= 1.0.1",

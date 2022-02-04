@@ -33,11 +33,11 @@
         "thumbnail_url": "/assets/23870837e55b6e76bd44fde172769923ed4b8fb7.thumb.png"
     },
     {
-        "name": "BigLightTrainStop",
-        "version": "1.1.0",
+        "name": "BIG LIGHT",
+        "version": "0.1.3",
         "constraint": ">=",
-        "portal_url": "https://mods.factorio.com/mod/BigLightTrainStop",
-        "thumbnail_url": "/assets/58e0b73fef20e4a500f3c5e5ef7123842d3a7639.thumb.png"
+        "portal_url": "https://mods.factorio.com/mod/BigLight",
+        "thumbnail_url": "/assets/caef57af2a8edb5a5ccb31682db572fd9832afcf.thumb.png"
     },
     {
         "name": "BottleneckLite",
@@ -150,13 +150,6 @@
         "constraint": ">=",
         "portal_url": "https://mods.factorio.com/mod/automatic-underground-pipe-connectors",
         "thumbnail_url": "/assets/6bf5406cc471b1a00d47fbdd25ebd5f2c96e829a.thumb.png"
-    },
-    {
-        "name": "bigger-mining-drill-status-lights-continued",
-        "version": "1.0.1",
-        "constraint": ">=",
-        "portal_url": "https://mods.factorio.com/mod/bigger-mining-drill-status-lights-continued",
-        "thumbnail_url": "/assets/228d1f0e6a3c43045dbc94d75186cc9d8d1ee13f.thumb.png"
     },
     {
         "name": "cholericcars",

@@ -138,6 +138,13 @@
         "thumbnail_url": "/assets/583e89c64eb1c568d59cc60eb77102ae0d5e5812.thumb.png"
     },
     {
+        "name": "Thicker Power Wires",
+        "version": "0.0.5",
+        "constraint": ">=",
+        "portal_url": "https://mods.factorio.com/mod/ThickerLines",
+        "thumbnail_url": "/assets/2035a6e1b6e0b2dab3b7e2f250d51c7ddc690001.thumb.png"
+    },
+    {
         "name": "assemblyanalyst",
         "version": "1.1.11",
         "constraint": ">=",

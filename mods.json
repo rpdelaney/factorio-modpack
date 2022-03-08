@@ -47,13 +47,6 @@
         "thumbnail_url": "/assets/98f73b2200b76d6a8ee6c92ef88b45f8219ad8bb.thumb.png"
     },
     {
-        "name": "ClearNightvision",
-        "version": "1.0.1",
-        "constraint": ">=",
-        "portal_url": "https://mods.factorio.com/mod/ClearNightvision",
-        "thumbnail_url": "/assets/f752c16f075bb90c485dac78c5bbcb6a7128289b.thumb.png"
-    },
-    {
         "name": "ColorCodedPlanners",
         "version": "1.0.1",
         "constraint": ">=",

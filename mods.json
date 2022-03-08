@@ -96,6 +96,13 @@
         "thumbnail_url": "/assets/365932c497be02833ed4ca62a67b617957b89eb8.thumb.png"
     },
     {
+        "name": "NiceFill",
+        "version": "0.1.19",
+        "constraint": ">=",
+        "portal_url": "https://mods.factorio.com/mod/nicefill",
+        "thumbnail_url": "/assets/c89689fe396c96434e19de0f3f965b1f52470d4f.thumb.png"
+    },
+    {
         "name": "PickerDollies",
         "version": "1.1.6",
         "constraint": ">=",

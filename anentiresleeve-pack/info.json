@@ -1,6 +1,6 @@
 {
     "name": "anentiresleeve-pack",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "title": "AnEntireSleeve Modpack",
     "author": "AnEntireSleeve",
     "description": "ModPack with the mods I use and recommend. Mostly UI enhancements and quality of life.",
@@ -21,7 +21,7 @@
         "HallOfFame >= 1.11.1",
         "KitchsLessIntrusiveIcons >= 1.0.0",
         "ModuleInserter >= 5.2.4",
-        "NiceFill >= 0.1.19",
+        "nicefill >= 0.1.19",
         "PickerDollies >= 1.1.6",
         "RateCalculator >= 2.4.2",
         "RealisticReactorGlow >= 1.101.7",

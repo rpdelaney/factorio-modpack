@@ -96,7 +96,7 @@
         "thumbnail_url": "/assets/365932c497be02833ed4ca62a67b617957b89eb8.thumb.png"
     },
     {
-        "name": "NiceFill",
+        "name": "nicefill",
         "version": "0.1.19",
         "constraint": ">=",
         "portal_url": "https://mods.factorio.com/mod/nicefill",
